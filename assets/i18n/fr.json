@@ -30,7 +30,7 @@
   "View All" : "Voir tout",
   "Log in":"Connexion",
   "Register":"S'enregistrer",
-  "Online Votting System":"Système de sondage en ligne",
+  "Online Polling System":"Système de sondage en ligne",
   "Email":"Email",
   "Password":"mot de passe",
   "Username is required":"Nom d'utilisateur est nécessaire",
@@ -46,7 +46,7 @@
   "My proposal":"Ma proposition",
   "About US":"à propos de nous",
   "WELCOME TO OUR SITE":"BIENVENUE SUR NOTRE SITE",
-  "SOCIAL Votting PLATFORM FOR ALL HUMANS WITH BURNING QUESTIONS":"PLATEFORME DE POLICE SOCIALE POUR TOUS LES HUMAINS AVEC DES QUESTIONS BRÛLANTES",
+  "SOCIAL POLLING PLATFORM FOR ALL HUMANS WITH BURNING QUESTIONS":"PLATEFORME DE POLICE SOCIALE POUR TOUS LES HUMAINS AVEC DES QUESTIONS BRÛLANTES",
   "Have you ever wanted to ask a question to thousands of people? Have you ever wondered how different people around the country might answer the same question – or how you might stack up against them? Have you ever wished for a safe and fun environment to debate thoughtful (or trivial) political questions":"Avez-vous déjà voulu poser une question à des milliers de personnes? Vous êtes-vous déjà demandé comment des gens différents dans le pays pourraient répondre à la même question - ou comment vous pourriez vous comparer à eux? Avez-vous déjà souhaité un environnement sûr et amusant pour débattre de questions politiques réfléchies (ou triviales)",
   "Then join us! Come for the polls, and stay for the community!":"Alors rejoignez-nous! Venez pour les sondages, et restez pour la communauté!",
   "TRENDING QUESTION PLACEHOLDER":"PLACE DE QUESTION PLACEHOLDER",
@@ -59,16 +59,13 @@
   "City":"Ville",
   "Province":"Province",
   "Country":"Pays",
-  "Vote Community Proposal":"Voter proposition de la communauté",
+  "Vote proposal":"Proposition de vote",
   "Proposal Title":"Titre de la proposition",
   "Date Submitted":"Date de soumission",
   "Proposal Details":"Détails de la proposition",
   "Display User Name":"Afficher le nom d'utilisateur",
   "Create":"Créer",
-  "Priority":"Priorité",
-  "Welcome":"Bienvenue",
-  "Location Link":"Lien de localisation",
-  "Input a location url.":"Entrez une URL de localisation.",
-  "Vote Government Proposal":"Vote de la proposition du gouvernement"
+  "Priority":"Priorité"
+
 
 }
